@@ -1,0 +1,12 @@
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Hatice Kübra\source\repos\BlocProjectCamp\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
